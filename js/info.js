@@ -39,7 +39,7 @@ const personDetails = {
       "php": 33,
       "lua": 90,
       "python": 57,
-      "CyberSec": 54,
+      "C": 54,
       "vscode": 62,
       },
     social: {
@@ -104,7 +104,7 @@ const personDetails = {
   setSkillValue('python');
   setSkillValue('lua');
   setSkillValue('php');
-  setSkillValue('CyberSec');
+  setSkillValue('C');
   setSkillValue('vscode');
 
   // contact.html
