@@ -16,7 +16,7 @@ const personDetails = {
       yoe: 4,
       completedProjects: +60,
       happyCustomers: +10,
-      awardsWon: 3,
+      awardsWon: 1,
     },
     academic: {
       college: {
@@ -39,7 +39,7 @@ const personDetails = {
       "php": 33,
       "lua": 90,
       "python": 57,
-      "C": 3,
+      "CyberSec": 54,
       "vscode": 62,
       },
     social: {
@@ -104,7 +104,7 @@ const personDetails = {
   setSkillValue('python');
   setSkillValue('lua');
   setSkillValue('php');
-  setSkillValue('C');
+  setSkillValue('CyberSec');
   setSkillValue('vscode');
 
   // contact.html
