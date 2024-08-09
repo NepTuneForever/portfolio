@@ -10,7 +10,7 @@ const personDetails = {
       address: "Brazil",
       nationality: "Brazilian",
       freelance: "Yes",
-      description: "I'm a VFX Creator & FullStack Developer who is focused on discovering knowlegde, I have the ability to build Discord bots, but i'm not advanced, Apps and Websites. I am passionate about building excellent software that improves the lives of those around me, and making Visual Effects for fun."
+      description: "I'm a FullStack Programmer who is focused on discovering knowlegde, I have the ability to build Discord bots and Websites. I am passionate about building excellent software that improves the lives of those around me."
     },
     professional: {
       yoe: 4,
