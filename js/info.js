@@ -3,7 +3,7 @@ const personDetails = {
       firstName: "Neptune",
       lastName: "",
       email: "neptuneforever00@gmail.com",
-      age: 16,
+      age: 18,
       languages: "Portuguese, English & French",
       phone: "N/A",
       contactMail: "neptuneforever00@gmail.com",
@@ -13,7 +13,7 @@ const personDetails = {
       description: "I'm a FullStack Programmer who is focused on discovering knowlegde, I have the ability to build Discord bots and Websites. I am passionate about building excellent software that improves the lives of those around me."
     },
     professional: {
-      yoe: 4,
+      yoe: 5,
       completedProjects: +60,
       happyCustomers: +10,
       awardsWon: 1,
